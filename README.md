@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node js , Typescript**
 
-- 👨‍💻 All of my projects are available at [https://dananjaya6005.github.io/my-projects/](https://dananjaya6005.github.io/my-projects/)
+- 👨‍💻 All of my projects are available at https://www.dhananjaya.tech/
 
 - 💬 Ask me about **React native**
 
